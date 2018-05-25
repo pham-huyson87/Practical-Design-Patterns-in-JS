@@ -95,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Creational Design Patterns\Constructor Pattern\Template\ConstructorPattern.js" />
+    <Content Include="Creational Design Patterns\Factory Pattern\Template\FactoryPattern.js" />
     <Content Include="Creational Design Patterns\Module Pattern\Template\ModulePattern.js" />
   </ItemGroup>
   <ItemGroup>
