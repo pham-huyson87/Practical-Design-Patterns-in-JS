@@ -97,6 +97,8 @@
     <Content Include="Creational Design Patterns\Constructor Pattern\Template\ConstructorPattern.js" />
     <Content Include="Creational Design Patterns\Factory Pattern\Template\FactoryPattern.js" />
     <Content Include="Creational Design Patterns\Module Pattern\Template\ModulePattern.js" />
+    <Content Include="Creational Design Patterns\Singleton Pattern\Template\SingletonPattern.js" />
+    <Content Include="Structural Design Patterns\Decorator Pattern\DecoratorPattern.js" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
