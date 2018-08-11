@@ -94,6 +94,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Behavioral Design Patterns\Command Pattern\Template\Command Pattern.js" />
     <Content Include="Behavioral Design Patterns\Mediator Pattern\Template\MediatorPattern.js" />
     <Content Include="Behavioral Design Patterns\Observer Patterns\Template\ObserverPattern.js" />
     <Content Include="Creational Design Patterns\Constructor Pattern\Template\ConstructorPattern.js" />
